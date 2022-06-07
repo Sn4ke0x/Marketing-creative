@@ -42,8 +42,6 @@ marketing creative trata-se de uma landing page responsiva simples e elegante.
 </p>
 
 ---
-=======
->>>>>>> 8db336aee3d0adf6123a8228ef41c8fd5b08d22d
 
 ## 🛠 Tecnologias
 
