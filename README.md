@@ -12,20 +12,14 @@ marketing creative trata-se de uma landing page responsiva simples e elegante.
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidade
 
-<<<<<<< HEAD
 - [x] responsividade no layout
-=======
-- [x] responsividade no design
->>>>>>> 8db336aee3d0adf6123a8228ef41c8fd5b08d22d
-
   - [x] formulario de cadastro
   - [x] animações suaves
 
 ---
 
-<<<<<<< HEAD
 ## 🎨 Layout
 
 ### Mobile
